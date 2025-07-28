@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hi, Im Siham!
 
-<!--
-**Sihamsehil/sihamsehil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 A future AI Engineer and passionate developer.<br>
+- 🧪 Exploring  the worlds of **Web & Mobile Development**, **Cybersecurity**, **UI Design**, and **C++ Programming**.<br>
+- 📚 studying Artificial Intelligence at [ENSIA](https://www.ensia.edu.dz/), Algeria.<br>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages**: Python, C++, HTML/CSS, JavaScript  
+- **Tools**: Qt, Tkinter, Git, Figma, Firebase  
+- **Concepts**: AI Search, UI/UX Design, Security, Databases
+
+
+
+---
+
+### 📬 Let’s Connect!
+- [LinkedIn](https://linkedin.com/in/your-link)
+- Email: siham.sehil@ensia.edu.dz
