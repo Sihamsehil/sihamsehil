@@ -2,14 +2,14 @@
 ### 👋 Hi, Im Siham!
 
 
-   🤖 Future AI Engineer and passionate developer.<br>
-   🧪 Exploring  the worlds of **Web & Mobile Development**, **Cybersecurity**, **UI Design**, and **C++ Programming**.<br>
-   📚 Studying Artificial Intelligence at [ENSIA](https://www.ensia.edu.dz/), Algeria.<br>
+   - Future AI Engineer and passionate developer.<br>
+   - Exploring  the worlds of **Web & Mobile Development**, **Cybersecurity**, **UI Design**, and **C++ Programming**.<br>
+   - Studying Artificial Intelligence at [ENSIA](https://www.ensia.edu.dz/), Algeria.<br>
 
 ---
 
 ###  Tech Stack/ Tool
-
+<br>
 <p >
   <!-- Languages -->
   <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -48,7 +48,7 @@
 ---
 
 ###  Let’s Connect!
-
+<br>
 <p >
   <a href="mailto:siham.sehil@ensia.edu.dz">
     <img align="center" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
@@ -63,7 +63,7 @@
 
 </p>
 
-
+<br>
 <details>
   <summary>:zap: <b>GitHub Stats</b></summary>
 <br>
