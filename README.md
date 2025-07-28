@@ -5,19 +5,61 @@
    🧪 Exploring  the worlds of **Web & Mobile Development**, **Cybersecurity**, **UI Design**, and **C++ Programming**.<br>
    📚 studying Artificial Intelligence at [ENSIA](https://www.ensia.edu.dz/), Algeria.<br>
 
+---
+
+###  Tech Stack
+
+<p >
+  <!-- Languages -->
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</p>
+
+<p >
+  <!-- Tools -->
+  <img alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Qt" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
+</p>
+
+<p>
+  <!-- Concepts -->
+  AI Search • UI/UX Design • Cybersecurity • Databases
+</p>
+
+
+---
+
+###  Let’s Connect!
+
+<p >
+  <a href="mailto: siham.sehil@ensia.edu.dz">
+    <img align="center" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://www.linkedin.com/in/siham-sehil-9757a5337" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
  
+  <a href="https://yourwebsite.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="website" />
+  </a>
+
+</p>
+
+
+<details>
+  <summary>:zap: <b>GitHub Stats</b></summary>
+<br>
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamsehil&show_icons=true&theme=tokyonight)
- 
----
 
-### 🛠️ Tech Stack
-- **Languages**: Python, C++, HTML/CSS, JavaScript  
-- **Tools**: Qt, Tkinter, Git, Figma, Firebase  
-- **Concepts**: AI Search, UI/UX Design, Security, Databases
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamsehil&layout=compact)
----
+</details>
 
-### 📬 Let’s Connect!
-- [LinkedIn](https://linkedin.com/in/your-link)
-- Email: siham.sehil@ensia.edu.dz
+
