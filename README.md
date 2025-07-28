@@ -40,7 +40,7 @@
 ###  Let’s Connect!
 
 <p >
-  <a href="mailto: siham.sehil@ensia.edu.dz">
+  <a href="mailto:siham.sehil@ensia.edu.dz">
     <img align="center" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://www.linkedin.com/in/siham-sehil-9757a5337" target="blank">
